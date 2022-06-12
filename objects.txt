@@ -12,10 +12,16 @@ CatFood
 --------
 taste
 
-Post
---------
-author
-title
-text
-created_date
-published_date
+    Post
+    --------
+    author
+    title
+    text
+    created_date
+    published_date
+
+#Step 1 - We need to install this 
+
+    pip3.6 install --user pythonanywhere
+
+#Step 2 - pa_autoconfigure_django.py https://github.com/<your-github-username>/my-first-blog.git
